@@ -1,0 +1,1 @@
+# yugioh_atkdef_caculator.github.io
